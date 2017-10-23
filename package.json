@@ -1,0 +1,28 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --progress --colors --hot --config ./webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nony1992/react-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nony1992/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/nony1992/react-boilerplate#readme",
+  "dependencies": {
+    "npm": "^5.5.1"
+  },
+  "devDependencies": {
+    "react-hot-loader": "^3.1.1",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.3"
+  }
+}
